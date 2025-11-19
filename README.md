@@ -28,3 +28,22 @@ Sistema de assistência virtual desenvolvido para o curso de Machine Learning da
 1. Clone o repositório:
 ```bash
 git clone https://github.com/Sanyahu-Designer/Assistente_Virtual.git  
+
+2. Instale as dependências:
+pip install -r requirements.txt
+
+3. Execute o sistema:
+python assistente_virtual.py
+
+4. Comandos Disponíveis:
+"Pesquisar [termo] no Wikipedia"
+"Abrir YouTube"
+"Pesquisar [termo] no YouTube"
+"Abrir meu site"
+"Localizar farmácia"
+"Que horas são?"
+"Qual a data de hoje?"
+"Sair" para encerrar"
+
+Desenvolvido por:
+Sandro Augusto Vascão - Formação Machine Learning Specialist - DIO
