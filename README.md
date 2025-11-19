@@ -27,4 +27,4 @@ Sistema de assistência virtual desenvolvido para o curso de Machine Learning da
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/assistente-virtual-dio.git  
+git clone https://github.com/Sanyahu-Designer/Assistente_Virtual.git  
